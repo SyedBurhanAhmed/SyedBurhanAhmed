@@ -2,7 +2,7 @@ name: Generate snake animation
 
 on:
   schedule:
-    - cron: "* */12 * * *" # Runs every 12 hours
+    - cron: "0 */12 * * *" # Runs every 12 hours at the start of the hour
   workflow_dispatch: # Allows manual trigger
   push:
     branches:
@@ -16,6 +16,9 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
       - name: Generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
