@@ -61,9 +61,3 @@
   </a>
 </div>
 
-###
-<br clear="both">
-
-<img src="https://syedburhanahmed.github.io/syedburhanahmed/snake.svg" alt="Snake animation" />
-
-###
