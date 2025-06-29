@@ -1,71 +1,102 @@
-<h2 align="left">Hi 👋! My name is Syed Burhan Ahmed and I'm a AI and Data Science Enthusiast, from Lahore, Pakistan.</h2>
+<h2 align="left">Hi 👋! I'm Syed Burhan Ahmed — AI Engineer, Educator, and Full-Stack Innovator</h2>
 
+---
 
-###
+- 🔭 Currently working on:  
+  [RULEN – Real-Time Unified Lecture Extraction Network](https://github.com/SyedBurhanAhmed/RULEN-Real-time-Unified-Lecture-Extraction-Network)  
+  [Memora – Multimodal RAG Chatbot](https://huggingface.co/spaces/SyedBurhanAhmed/memora)
 
-- 🔭 I’m currently working on [Full Stack AIML chatbot](https://github.com/SyedBurhanAhmed/Full-Stack-AIML-Chatbot)
+- 🧠 Areas of Focus:  
+  Generative AI, Multilingual NLP, RAG Systems, Computer Vision, Embedded AI
 
-- 🌱 I’m currently learning **Data Analysis, Web Development**
+- 💼 Roles:  
+  - AI Team Co-Lead at **Global GeoSoft**  
+  - Master Trainer – Generative AI at **AKTI**  
+  - Teaching Assistant at **UMT**  
+  - Freelancer | Software Engineer | Tech Mentor
 
-- 💬 Ask me about **AI, Data Science, Chatbots**
+- 🎓 Education:  
+  **BS in Artificial Intelligence** @ University of Management and Technology  
+  **CGPA: 3.81** | Dean's Merit Awardee
 
-- 📫 How to reach me **syedburhanahmedd@gmail.com**
+- 💬 Ask me about:  
+  LLMs, LangChain, Whisper, YOLOv11, LlamaIndex, Python, Flask, Embedded Systems
 
-- ⚡ Fun fact **I create bots.**
+- 📫 Reach me at:  
+  **syedburhanahmedd@gmail.com**
 
+- 🌍 Portfolio: [syedburhanahmed.live](https://www.syedburhanahmed.live)
 
-###
+---
+
+## 📈 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedburhanahmed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syedburhanahmed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=syedburhanahmed&show_icons=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedburhanahmed&layout=compact&langs_count=5&theme=dracula" height="150" />
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/135728171?v=4"  />
+## 🔧 Tech Stack
 
-###
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
-</div>
+**Languages:**  
+Python, C/C++, MIPS Assembly, JavaScript, Bash, SQL
 
+**AI & ML:**  
+PyTorch, TensorFlow, Hugging Face, LangChain, LlamaIndex, Scikit-learn, OpenCV
 
-###
-<h3 align="left">Connect with me:</h3>
-<div align="left">
-  <a href="mailto:syedburhanahmedd@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/syed-burhan-ahmed/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/i_syedburhan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.gg/ueRMAJVx" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/syedburhanahmed" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  </a>
-</div>
+**Frameworks & Tools:**  
+Flask, Gradio, ASP.NET, Git, Google Colab, VS Code, Hugging Face Spaces
 
-###
-<br clear="both">
+**Domains:**  
+Generative AI, Multilingual NLP, RAG Systems, Embedded AI, Computer Vision
 
-<img src="https://github.com/SyedBurhanAhmed/SyedBurhanAhmed/blob/output/snake.svg" alt="Snake animation" />
+**Embedded Systems:**  
+ESP32, NFC, OLED, Real-time Voice Commands, IoT Integrations
 
+---
 
-###
+## 💡 Highlight Projects
 
+- **RULEN – AI Lecture System**  
+  Whisper + LangChain + Gemini for transcription, note generation, and assessment creation.  
+  → [GitHub](https://github.com/SyedBurhanAhmed/RULEN-Real-time-Unified-Lecture-Extraction-Network)
+
+- **Memora – Multimodal RAG Chatbot**  
+  OCR-enabled memory system for document Q&A using Gemini and Groq.  
+  → [Hugging Face Demo](https://huggingface.co/spaces/SyedBurhanAhmed/memora)
+
+- **Voice-Based Attendance System**  
+  ESP32-based biometric + speech recognition system integrated with Flask and OLED.
+
+- **Fall Detection (YOLOv11)**  
+  Achieved 95% detection accuracy on LE2I dataset using real-time bounding boxes.
+
+- **Freak – Desktop AI Assistant**  
+  AIML-Prolog + Neo4j-powered chatbot with sensory awareness modules.
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Dean's Merit Award – Spring 2023**  
+- 🥇 **Gold Medalist – Matriculation**
+- 👨‍🏫 **Delivered 60+ hours** of hands-on training on GenAI and LLMs
+- 📜 Developed 10+ AI-powered systems and dashboards
+
+---
+
+## 🌐 Connect with Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedburhanahmedd@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-burhan-ahmed/)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/syedburhanahmed)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/syedburhanahmed)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i_syedburhan)
+
+---
+
+<p align="center">
+  <img src="https://github.com/SyedBurhanAhmed/SyedBurhanAhmed/blob/output/snake.svg" alt="snake animation" />
+</p>
