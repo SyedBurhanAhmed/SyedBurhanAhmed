@@ -2,101 +2,111 @@
 
 ---
 
-- 🔭 Currently working on:  
-  [RULEN – Real-Time Unified Lecture Extraction Network](https://github.com/SyedBurhanAhmed/RULEN-Real-time-Unified-Lecture-Extraction-Network)  
-  [Memora – Multimodal RAG Chatbot](https://huggingface.co/spaces/SyedBurhanAhmed/memora)
+- 🔭 **Recent Projects & Areas of Growth:**
+  - Completed: [RULEN – Real-Time Unified Lecture Extraction Network](https://github.com/SyedBurhanAhmed/RULEN-Real-time-Unified-Lecture-Extraction-Network)
+  - Expanding skills in Generative AI, Retrieval-Augmented Generation (RAG), Computer Vision, and advanced NLP
+  - Actively contributing to open source and prototyping new AI/ML concepts
 
-- 🧠 Areas of Focus:  
-  Generative AI, Multilingual NLP, RAG Systems, Computer Vision, Embedded AI
-
-- 💼 Roles:  
-  - AI Team Co-Lead at **Global GeoSoft**  
-  - Master Trainer – Generative AI at **AKTI**  
-  - Teaching Assistant at **UMT**  
-  - Freelancer | Software Engineer | Tech Mentor
-
-- 🎓 Education:  
-  **BS in Artificial Intelligence** @ University of Management and Technology  
-  **CGPA: 3.81** | Dean's Merit Awardee
-
-- 💬 Ask me about:  
-  LLMs, LangChain, Whisper, YOLOv11, LlamaIndex, Python, Flask, Embedded Systems
-
-- 📫 Reach me at:  
-  **syedburhanahmedd@gmail.com**
-
-- 🌍 Portfolio: [syedburhanahmed.live](https://www.syedburhanahmed.live)
+- 🧠 **Expertise:** Generative AI, NLP, Retrieval-Augmented Generation, Computer Vision, Embedded AI  
+- 💼 **Professional Roles:**
+  - Software Development Intern @ **BeWhoop** (.NET, C#)
+  - AI/ML Intern & FYP Researcher @ **AVR Research Lab, UMT** (YOLOv11, PyTorch, LangChain)
+  - Technical Support & Data Ops Associate @ **Punjab Skills Development Authority(PSDA)**
+  - Master Trainer – Generative AI @ **Arfa Karim Technology Incubator(AKTI)**
+  - TA (Digital Logic Design) @ **University of Management and Technology(UMT)**
+  - Freelance & Open Source Contributor
+- 🎓 **Education:**  
+  **BS Artificial Intelligence, UMT** (Final Year)  
+  **CGPA:** 3.84/4.00 | Dean's Merit Awardee
 
 ---
 
 ## 📈 GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=syedburhanahmed&show_icons=true&theme=dracula" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedburhanahmed&layout=compact&langs_count=5&theme=dracula" height="150" />
 </div>
+💬 Ask me about:
+LLMs, LangChain, Whisper, YOLOv11, LlamaIndex, Python, Flask, Embedded Systems
 
+📫 Reach me at:
+**syedburhanahmedd@gmail.com**
+
+🌍 Portfolio:  [syedburhanahmed.dev](https://www.syedburhanahmed.dev)
 ---
 
-## 🔧 Tech Stack
+## 🛠️ Tech Stack
 
 **Languages:**  
-Python, C/C++, MIPS Assembly, JavaScript, Bash, SQL
+Python, C/C++, C#, JavaScript, SQL, HTML/CSS, Bash, MIPS Assembly
 
-**AI & ML:**  
-PyTorch, TensorFlow, Hugging Face, LangChain, LlamaIndex, Scikit-learn, OpenCV
+**AI/ML:**  
+PyTorch, TensorFlow, Hugging Face Transformers, YOLOv11, LangChain, LlamaIndex, Scikit-learn, OpenCV
 
-**Frameworks & Tools:**  
-Flask, Gradio, ASP.NET, Git, Google Colab, VS Code, Hugging Face Spaces
+**Web & Backend:**  
+Flask, ASP.NET, React.js, Gradio, Streamlit, Jinja2
 
-**Domains:**  
-Generative AI, Multilingual NLP, RAG Systems, Embedded AI, Computer Vision
+**Tools & Platforms:**  
+Git, GitHub, Google Colab, Kaggle, VS Code, PyCharm, Visual Studio
 
-**Embedded Systems:**  
-ESP32, NFC, OLED, Real-time Voice Commands, IoT Integrations
+**Embedded:**  
+ESP32, NFC, OLED, IoT Sensor Integration
 
 ---
 
 ## 💡 Highlight Projects
 
-- **RULEN – AI Lecture System**  
-  Whisper + LangChain + Gemini for transcription, note generation, and assessment creation.  
-  → [GitHub](https://github.com/SyedBurhanAhmed/RULEN-Real-time-Unified-Lecture-Extraction-Network)
+- **[RULEN](https://github.com/SyedBurhanAhmed/RULEN-Real-time-Unified-Lecture-Extraction-Network) – Unified Lecture Assistant**  
+  AI dashboard for real-time lecture transcription in 99+ languages, bilingual note/quiz generation, curriculum alignment, and PLO/CLO mapping.
 
-- **Memora – Multimodal RAG Chatbot**  
-  OCR-enabled memory system for document Q&A using Gemini and Groq.  
-  → [Hugging Face Demo](https://huggingface.co/spaces/SyedBurhanAhmed/memora)
+- **[Freak AI](https://github.com/SyedBurhanAhmed/Freak-AI) – Memory-Augmented Conversational Agent**  
+  Prolog/Neo4j-powered chatbot simulating human-like memory with voice/IoT integration.
 
-- **Voice-Based Attendance System**  
-  ESP32-based biometric + speech recognition system integrated with Flask and OLED.
+- **[CelebVision](https://github.com/SyedBurhanAhmed/CelebVision-Multi-Pipeline-Celebrity-Recognition-System) – Dual-Shot Celebrity Classifier**  
+  YOLOv11 + EfficientNetV2-S system for real-time face/gender/celebrity recognition.
 
-- **Fall Detection (YOLOv11)**  
-  Achieved 95% detection accuracy on LE2I dataset using real-time bounding boxes.
+- **[Real-Time Fall Detection](https://github.com/SyedBurhanAhmed/Real-Time-Fall-Detection-using-YOLO) – Computer Vision**  
+  Deployed YOLOv11 for high-precision fall detection in surveillance video streams.
 
-- **Freak – Desktop AI Assistant**  
-  AIML-Prolog + Neo4j-powered chatbot with sensory awareness modules.
+- **[Lahore Arts Council Reservation System](https://github.com/SyedBurhanAhmed/Lahore-Arts-Council-ReservationSystem)**  
+  ASP.NET + SQL Server web app for event space reservations, automated workflow for 500+ users/month.
 
----
-
-## 🏆 Achievements
-
-- 🥇 **Dean's Merit Award – Spring 2023**  
-- 🥇 **Gold Medalist – Matriculation**
-- 👨‍🏫 **Delivered 60+ hours** of hands-on training on GenAI and LLMs
-- 📜 Developed 10+ AI-powered systems and dashboards
+- **Voice-Based Smart Attendance System**  
+  IoT/ESP32 project integrating NFC/fingerprint auth, real-time Flask backend, and OLED display.
 
 ---
 
-## 🌐 Connect with Me
+## 🏅 Achievements
+
+- 🥇 Dean's Merit Award (Spring 2023)
+- 🥇 Gold Medal – Matriculation
+- 👨‍🏫 Delivered 60+ hours of hands-on Generative AI/LLM training
+- 💡 Built 10+ production AI systems, dashboards, and apps
+
+---
+
+## 📚 Publications
+
+- **Video Based Fall Detection System using YOLO**  
+  _UMT Annual Conference (Expected 2025)_
+
+---
+
+## 🌎 Connect with Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedburhanahmedd@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-burhan-ahmed/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-burhan-ahmed)
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/syedburhanahmed)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/syedburhanahmed)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i_syedburhan)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/syedburhanahmed)
+[![Portfolio](https://img.shields.io/badge/Portfolio-syedburhanahmed.dev-blueviolet)](https://syedburhanahmed.dev)
+[![Resume](https://img.shields.io/badge/Resume-Google%20Drive-informational)](https://drive.google.com/file/d/1iXj6SGYDoyPsl8ZxyoD5CI9rPOqUcCVE/view?usp=drive_link)
 
 ---
 
 <p align="center">
   <img src="https://github.com/SyedBurhanAhmed/SyedBurhanAhmed/blob/output/snake.svg" alt="snake animation" />
 </p>
+
+---
+
+*Open to collaborating on impactful, real-world projects in AI, NLP, or Computer Vision. Let’s build the future together!*
