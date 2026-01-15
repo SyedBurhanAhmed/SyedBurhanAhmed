@@ -84,7 +84,7 @@ Vision-Language Models (VLMs), YOLOv11, RAG Pipelines, LangChain, Embedded AI (E
 
 - **"Efficient Vision-Based Fall Detection for Elderly Surveillance Using YOLOv11"**
   *Authors: Syed Burhan Ahmed, et al.*
-  Presented at the **4th International Conference on Innovative Computing (ICIC 2025)**. *(Paper in Press)*
+  Presented at the **6th International Conference on Innovative Computing (ICIC 2025)**. *(Paper in Press)*
 
 ---
 
