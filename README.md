@@ -4,21 +4,21 @@
 
 ### 🚀 **Current Focus & Research**
 I am an AI Engineer bridging the gap between advanced R&D and scalable production systems. Currently, I am:
-- **Leading R&D** as an AI Researcher at **AVR Research Group**, architecting *InsightVision*—a hybrid YOLO/VLM microservice with <100ms latency.
-- **Optimizing Data Systems** as a Data Ops Associate at **PSDA**, managing backend integrity for a system serving **100,000+ concurrent users**.
-- **Building the Future** of Generative AI, focusing on **GraphRAG**, **Agentic Workflows**, and **Edge AI**.
+- **Architecting SaaS Workflows** as an AI Engineer (Trainee) at **OptimusFox**, building multi-tenant B2B automation pipelines using **n8n** and **FastAPI**.
+- **Leading R&D** as an AI Researcher at **AVR Research Group**, orchestrating *InsightVision*—a hybrid YOLO/VLM microservice with <100ms latency.
+- **Benchmarking Next-Gen AI**, focusing on **Vision-Language Models (VLMs)**, **Few-Shot Learning**, and **Model Evaluation Rigor**.
 
 ---
 
 ### 💼 **Professional Experience**
+- **AI Engineer (Trainee)** @ [OptimusFox](https://www.optimusfox.com)
+  *Focus: n8n Workflow Automation, SaaS Architecture, Multi-tenancy, Infrastructure Benchmarking.*
 - **AI Researcher (Computer Vision & Robotics)** @ [AVR Research Group, UMT](https://www.umt.edu.pk)
-  *Focus: Hybrid Architectures, YOLOv11, LangChain, FastAPI, Docker.*
-- **Data Operations Associate** @ [Punjab Skills Development Authority (PSDA)](https://psda.punjab.gov.pk)
-  *Focus: High-Scale SQL Optimization, Data Pipelines, System Architecture.*
+  *Focus: Hybrid YOLOv11/VLM Architectures, FastAPI, Zero-Shot Learning, Model Optimization.*
 - **Master Trainer – Generative AI** @ [Arfa Karim Technology Incubator](https://akti.pitb.gov.pk)
-  *Focus: Trained 120+ devs on LLMs, Transformers, and RAG Pipelines.*
-- **Freelance Software Engineer** @ Lahore Arts Council
-  *Focus: Built ASP.NET/SQL reservation system for 500+ monthly users.*
+  *Focus: Trained 120+ participants on LLMs, Transformers, and RAG Pipelines.*
+- **Data Operations Associate** @ [Punjab Skills Development Authority (PSDA)](https://psda.punjab.gov.pk)
+  *Focus: Automated data pipelines for 1,100+ institutes serving 100,000+ concurrent users.*
 
 ---
 
@@ -36,44 +36,44 @@ I am an AI Engineer bridging the gap between advanced R&D and scalable productio
 </div>
 
 💬 **Ask me about:**
-Retrieval-Augmented Generation (RAG), Vision-Language Models (VLMs), Microservices (FastAPI), Knowledge Graphs (Neo4j).
+Workflow Automation (n8n), Vision-Language Models (VLMs), System Architecture (SaaS), and Retrieval-Augmented Generation (RAG).
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Generative AI & NLP:**
-`LangChain` `RAG` `LlamaIndex` `OpenAI Whisper` `Neo4j (Graph DB)` `Vector DBs`
+**Generative AI & Automation:**
+`n8n` `LangChain` `RAG` `LlamaIndex` `CLIP/BLIP` `Prompt Engineering`
 
-**Computer Vision:**
-`YOLOv11` `PyTorch` `OpenCV` `TensorFlow` `EfficientNet`
+**Computer Vision & ML:**
+`YOLOv11` `PyTorch` `OpenCV` `TensorFlow` `Few-Shot Learning` `Model Evaluation`
 
 **Engineering & DevOps:**
-`Python` `FastAPI` `Docker` `SQL` `Git/GitHub` `Linux` `ASP.NET`
+`Python` `FastAPI` `Docker` `SQL` `Git/GitHub` `Linux` `Multi-tenant Architecture`
 
 ---
 
 ## 💡 Featured Projects
 
 - **[InsightVision (Research)](https://github.com/SyedBurhanAhmed) – Hybrid VLM Pipeline**
-  Architected a FastAPI microservice orchestrating YOLOv11 and VLMs for semantic natural-language querying with <100ms latency.
+  Architected a FastAPI microservice orchestrating YOLOv11 and VLMs for semantic querying with <100ms latency.
 
-- **[Freak AI](https://github.com/SyedBurhanAhmed) – Graph-Based Cognitive Agent**
-  Engineered a memory-centric cognitive architecture using **Neo4j** and **LangChain** to model human memory systems.
+- **[Efficient Vision-Based Fall Detection](http://github.com/SyedBurhanAhmed/Real-Time-Fall-Detection-using-YOLO) – IEEE Published Research**
+  Fine-tuned YOLOv11 for elderly surveillance (95% accuracy), featuring rigorous error analysis to reduce false positives.
 
 - **[RULEN](https://github.com/SyedBurhanAhmed/RULEN-Real-time-Unified-Lecture-Extraction-Network) – Multilingual Lecture Assistant**
-  Real-time transcription (99+ languages) using **OpenAI Whisper** with automated RAG-based quiz generation.
+  Real-time transcription (99+ languages) using **OpenAI Whisper** with automated RAG-based assessment generation.
 
-- **[CelebVision](https://github.com/SyedBurhanAhmed/CelebVision-Multi-Pipeline-Celebrity-Recognition-System) – Dual-Shot Classifier**
-  A high-performance pipeline combining YOLOv11 and EfficientNetV2-S (Achieved **0.973 F1 Score**).
+- **[Freak AI](https://github.com/SyedBurhanAhmed) – Graph-Based Cognitive Agent**
+  Memory-centric cognitive architecture using **Neo4j** and **D3.js** to model complex human memory systems.
 
 ---
 
 ## 🏅 Achievements
 
 - 🏆 **Winner:** UMT Techverse AI Hackathon 2025.
+- 📚 **IEEE Published Author:** "Efficient Vision-Based Fall Detection Using YOLOv11" (ICIC 2026).
 - 🥇 **1st Position:** Computer Vision Kaggle Competition (Top 1% among 50+ peers).
-- 📚 **Publication:** "Efficient Vision-Based Fall Detection Using YOLOv11" (In Press, ICIC 2025).
 
 ---
 
@@ -83,7 +83,6 @@ Retrieval-Augmented Generation (RAG), Vision-Language Models (VLMs), Microservic
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-burhan-ahmed)
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/syedburhanahmed)
 [![Portfolio](https://img.shields.io/badge/Portfolio-syedburhanahmed.dev-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white)](https://syedburhanahmed.dev)
-[![Resume](https://img.shields.io/badge/Resume-Google_Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1iXj6SGYDoyPsl8ZxyoD5CI9rPOqUcCVE/view?usp=drive_link)
 
 ---
 
