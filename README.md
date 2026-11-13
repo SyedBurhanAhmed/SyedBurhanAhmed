@@ -8,7 +8,7 @@ I'm an AI Engineer bridging applied research and production AI systems. Currentl
 - **Piloting AI-driven marketing automation** (multi-channel publishing and blog automation) and **building agents for business development** (Pipedrive automation and lead generation).
 - **Maintaining and improving the AI engine** behind the TVET-MIS single-database platform (committee, student, and job portals).
 - **Leading AI intern cohorts** at OptimusFox (NLP/GenAI, Computer Vision, RPA/Automation) and co-mentoring 2 graduate interns through the CM IT Internship Program.
-- **Previously shipped** at OptimusFox: BookItUp's recommendation engine (sub-300ms, often sub-100ms) and a LangChain tool-calling vendor-search chatbot.
+- **Previously shipped** at OptimusFox: BookItUp's recommendation engine (sub-100ms) and a LangChain tool-calling vendor-search chatbot.
 - **Recently shipped InsightVision** at UMT's AVR Research Group — an on-device vision-language surveillance platform (Grounding DINO/SAM3 + BoT-SORT + Gemma 4 OCR) running at ~11.5GB peak VRAM on a single GPU — followed by a domain-specific MoE expert-pruning pipeline that delivered a measured **10.51× inference speedup** on Gemma-4-26B.
 
 ---
